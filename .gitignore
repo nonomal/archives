@@ -25,3 +25,11 @@ stdout.log
 *.sln
 *.sw?
 .local
+
+
+docs
+
+.obsidian
+
+pnpm-lock.yaml
+yuque.config.json
